@@ -34,8 +34,8 @@ http://www.gazianteplikunefecifarukusta.com/
 
 Projenin ana sayfasına ait örnek görünüm:
 
-![Proje Görseli]()
-<img width="1919" height="865" alt="Ekran görüntüsü 2026-02-18 234620" src="https://github.com/user-attachments/assets/c2fddcf9-384b-4d79-9332-d4ae93c13dc8" />
+<img width="1919" height="870" alt="Ekran görüntüsü 2026-02-18 234607" src="https://github.com/user-attachments/assets/bfd9e13f-1672-4d1f-8018-e4c06aa5df9d" />
+
 <img width="1919" height="865" alt="Ekran görüntüsü 2026-02-18 234620" src="https://github.com/user-attachments/assets/0a3903d1-a4d9-4762-835f-5f66c434208b" />
 
 <img width="1919" height="868" alt="Ekran görüntüsü 2026-02-18 234651" src="https://github.com/user-attachments/assets/d19a88bf-9672-4f91-9c24-5ec8e56d24dc" />
